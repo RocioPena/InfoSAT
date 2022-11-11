@@ -1,0 +1,14 @@
+.contenedor{ 
+    display:flex;
+    flex-direction: row;
+}
+.izq{ 
+    border: solid 3px black;
+    width: 15%;
+    height: 100%;
+}
+.der{ 
+    border: solid 3px black;
+    width: 85%;
+    height: 100%;
+}
